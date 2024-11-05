@@ -1,0 +1,4 @@
+com\invoice\app\InvoiceAppApplication.class
+com\invoice\app\controller\InvoiceController.class
+com\invoice\app\web\config\WebConfig.class
+com\invoice\app\model\Invoice.class
